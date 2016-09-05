@@ -2,4 +2,4 @@
 
 Map geo coordinates to word pairings
 
-View the `dictcc_dictionary.ipynb` file for more information.
+View `dictcc_dictionary.ipynb` with [nbviewer](https://nbviewer.jupyter.org/github/sdaros/placeword/blob/master/dictcc_dictionary.ipynb) for more information.
