@@ -10,4 +10,4 @@ Instead of telling your friend to meet you at `60.382532, 5.326568` for coffee, 
 
 ## Status
 
-Feel free to browse through the `dictcc_dictionary.ipynb` file  with [nbviewer](https://nbviewer.jupyter.org/github/sdaros/placeword/blob/master/dictcc_dictionary.ipynb) or the github wiki for more information on the current status of this project.
+Feel free to browse through the `build_wordlist.ipynb` file  with [nbviewer](https://nbviewer.jupyter.org/github/sdaros/placeword/blob/master/dictcc_dictionary.ipynb) or the github wiki for more information on the current status of this project.
